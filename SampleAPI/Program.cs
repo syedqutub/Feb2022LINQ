@@ -3,13 +3,6 @@ using SampleAPI;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var data = new[]
-{
-   new {Id = 1,Name="Helo"}
-};
-
-var res = data.GroupBy(x => x.Id).ToLookup();
-
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

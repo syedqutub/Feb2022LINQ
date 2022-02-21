@@ -1,0 +1,10 @@
+[
+    {
+        "State":"Texas (TX)",
+        "Cities":["Austin","Dallas","Fort Worth","San Antino"]
+    },
+    {
+        "State":"California (CA)",
+        "Cities":["Los Angeles","San Diego"]
+    }
+]
