@@ -1,1 +1,27 @@
-["Austin","Dallas","Fort Worth","San Antino","Los Angeles","San Diego"]
+[
+    {
+        "Id": 1,
+        "StateId": 1,
+        "Name": "Austin"
+    },
+    {
+        "Id": 2,
+        "StateId": 1,
+        "Name": "Dallas"
+    },
+    {
+        "Id": 3,
+        "StateId": 1,
+        "Name": "San Antino"
+    },
+    {
+        "Id": 4,
+        "StateId": 2,
+        "Name": "Los Angeles"
+    },
+    {
+        "Id": 5,
+        "StateId": 2,
+        "Name": "San Diego"
+    }
+]

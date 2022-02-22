@@ -1,1 +1,12 @@
-["Texas (TX)","California (CA)"]
+[
+    {
+        "Id": 1,
+        "Name": "Texas",
+        "Code": "TX"
+    },
+    {
+        "Id": 2,
+        "Name": "California",
+        "Code": "CA"
+    }
+]
